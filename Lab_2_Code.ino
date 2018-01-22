@@ -1,4 +1,10 @@
-
+/**
+ * Code for Lab 2 - ENGR 385
+ * 
+ * Authors:
+ * 
+ * Greg Zdor and Kevin Gonzalez
+ */
 int digitalPin = 8; // define globa variables
 
 // setup global variables
